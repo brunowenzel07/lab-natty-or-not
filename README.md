@@ -32,7 +32,7 @@ Dall-e para geração de imagens
 Criei um prompo informando que a IA agora era um designer gráfico e que estava trabalhando em um projeto chamado Lúmen, que consistia em realizar tradução em tempo real para Libras e que ele deveria criar um avatar.
 
 ## 🚀 Resultados
-![Avatar Lúmen](https://raw.githubusercontent.com/brunowenzel07/lab-natty-or-not/refs/heads/main/DALL%C2%B7E%202024-11-12%2000.44.18%20-%20A%20friendly%20and%20approachable%20avatar%20designed%20for%20a%20project%20called%20L%C3%BAmen%2C%20intended%20to%20act%20as%20a%20translator%20in%20Brazilian%20Sign%20Language%20(Libras).%20The%20avata.webp)
+![Avatar Lúmen](Lumen.webp)
 
 ## 💭 Reflexão (Opcional)
 Foi algo bem simples para se ter ideia de como a IA trabalha, sobretudo no que diz respeito à contextualização, ou seja, quanto mais contextualizada a entrega é mais próxima do desejado.

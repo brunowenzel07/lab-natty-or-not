@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Lúmen ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Geração de um avatar para o projeto Lúmen, que consiste em realizar tradução em tempo real para Libras - Linguagem Brasileira de Sinais. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Dall-e para geração de imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um prompo informando que a IA agora era um designer gráfico e que estava trabalhando em um projeto chamado Lúmen, que consistia em realizar tradução em tempo real para Libras e que ele deveria criar um avatar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[IMG]
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi algo bem simples para se ter ideia de como a IA trabalha, sobretudo no que diz respeito à contextualização, ou seja, quanto mais contextualizada a entrega é mais próxima do desejado.
 ```
 
 ### Exemplos e Insigths
